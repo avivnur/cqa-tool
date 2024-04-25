@@ -1,5 +1,4 @@
-.streamlit
-./temp_img/*
-./__pycache__
-./ipynb_checkpoints
-intro.ipynb
+.streamlit/
+temp_img/
+__pycache__/
+.ipynb_checkpoints/
